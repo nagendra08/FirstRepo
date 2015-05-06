@@ -1,2 +1,3 @@
 # FirstRepo
-used for demo purpose
+used for demo purpose.
+Readme file contain some detail of project and its usage.
