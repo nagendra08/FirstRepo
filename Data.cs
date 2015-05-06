@@ -4,6 +4,6 @@ public class Hello
 {
 public void PrinMessage()
 {
-console.writleline("Hello GitHub")
+console.writleline("Hello GitHub");
 }
 }
